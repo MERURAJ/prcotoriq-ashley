@@ -1,0 +1,4528 @@
+{
+  "admin": {
+    "username": "admin",
+    "salt": "a287368c7d9bca08adabb68aaa631f15",
+    "passwordHash": "610033caf25706867d75ad435c39dca3180e5c603a6726ec4a5f389801f1be27d1902cf54229add3597fc851bd4cca3f60e7597cdadfd4ff4b688ae34cec6f27"
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "category": "Logical Reasoning",
+      "text": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+      "kind": "mcq",
+      "options": [
+        "38",
+        "40",
+        "42",
+        "44"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "q2",
+      "category": "Logical Reasoning",
+      "text": "All Bloops are Razzies, and all Razzies are Lazzies. Which statement must be true?",
+      "kind": "mcq",
+      "options": [
+        "All Lazzies are Bloops",
+        "All Bloops are Lazzies",
+        "No Razzies are Bloops",
+        "Some Lazzies are not Razzies"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q3",
+      "category": "Quantitative Aptitude",
+      "text": "A chair priced at ₹2,500 is sold at a 20% discount. What is the selling price?",
+      "kind": "mcq",
+      "options": [
+        "₹1,800",
+        "₹2,000",
+        "₹2,100",
+        "₹2,250"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q4",
+      "category": "Quantitative Aptitude",
+      "text": "Two numbers are in the ratio 3:5 and their sum is 64. What is the larger number?",
+      "kind": "mcq",
+      "options": [
+        "24",
+        "32",
+        "40",
+        "48"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "q5",
+      "category": "Python",
+      "text": "What does print(3 * 'ab') output in Python?",
+      "kind": "mcq",
+      "options": [
+        "ab3",
+        "ababab",
+        "6ab",
+        "Error"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q6",
+      "category": "Python",
+      "text": "Which keyword is used to define a function in Python?",
+      "kind": "mcq",
+      "options": [
+        "func",
+        "function",
+        "def",
+        "lambda only"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "q7",
+      "category": "SQL",
+      "text": "Which SQL clause filters rows before they are grouped?",
+      "kind": "mcq",
+      "options": [
+        "HAVING",
+        "WHERE",
+        "ORDER BY",
+        "LIMIT"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q8",
+      "category": "SQL",
+      "text": "Which expression returns the number of rows in a table?",
+      "kind": "mcq",
+      "options": [
+        "SUM(*)",
+        "TOTAL(*)",
+        "COUNT(*)",
+        "ROWS(*)"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "q9",
+      "category": "Computer Science",
+      "text": "Which data structure follows the Last-In, First-Out (LIFO) principle?",
+      "kind": "mcq",
+      "options": [
+        "Queue",
+        "Stack",
+        "Array",
+        "Graph"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q10",
+      "category": "Technology",
+      "text": "What does the HTTP status code 404 indicate?",
+      "kind": "mcq",
+      "options": [
+        "Server error",
+        "Unauthorized",
+        "Not found",
+        "Redirect"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91",
+      "category": "Arrays",
+      "text": "Given an array of integers nums and an integer target, return the indices of the two numbers whose sum equals target. Each input has exactly one solution, and you may not use the same element twice. Return the indices in any order.",
+      "kind": "coding",
+      "options": [],
+      "constraints": "2 <= nums.length <= 10000\n-1000000000 <= nums[i] <= 1000000000\n-1000000000 <= target <= 1000000000\nExactly one valid solution exists.",
+      "examples": [
+        {
+          "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+          "output": "[0,1]"
+        },
+        {
+          "input": "{\"nums\":[3,2,4],\"target\":6}",
+          "output": "[1,2]"
+        }
+      ],
+      "testCases": [
+        {
+          "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+          "expectedOutput": "[0,1]"
+        },
+        {
+          "input": "{\"nums\":[3,3],\"target\":6}",
+          "expectedOutput": "[0,1]"
+        },
+        {
+          "input": "{\"nums\":[-1,-2,-3,-4,-5],\"target\":-8}",
+          "expectedOutput": "[2,4]"
+        },
+        {
+          "input": "{\"nums\":[0,4,3,0],\"target\":0}",
+          "expectedOutput": "[0,3]"
+        },
+        {
+          "input": "{\"nums\":[1,5,3,7],\"target\":8}",
+          "expectedOutput": "[1,2]"
+        }
+      ]
+    }
+  ],
+  "attempts": {
+    "435224cf-2d2c-45a5-9448-ccd6dddaf97b": {
+      "id": "435224cf-2d2c-45a5-9448-ccd6dddaf97b",
+      "name": "Merlin R",
+      "startedAt": 1792719274101,
+      "questionSnapshot": [
+        {
+          "id": "q6",
+          "category": "Python",
+          "text": "Which keyword is used to define a function in Python?",
+          "options": [
+            "func",
+            "function",
+            "def",
+            "lambda only"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q3",
+          "category": "Quantitative Aptitude",
+          "text": "A chair priced at ₹2,500 is sold at a 20% discount. What is the selling price?",
+          "options": [
+            "₹1,800",
+            "₹2,000",
+            "₹2,100",
+            "₹2,250"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q2",
+          "category": "Logical Reasoning",
+          "text": "All Bloops are Razzies, and all Razzies are Lazzies. Which statement must be true?",
+          "options": [
+            "All Lazzies are Bloops",
+            "All Bloops are Lazzies",
+            "No Razzies are Bloops",
+            "Some Lazzies are not Razzies"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q7",
+          "category": "SQL",
+          "text": "Which SQL clause filters rows before they are grouped?",
+          "options": [
+            "HAVING",
+            "WHERE",
+            "ORDER BY",
+            "LIMIT"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q10",
+          "category": "Technology",
+          "text": "What does the HTTP status code 404 indicate?",
+          "options": [
+            "Server error",
+            "Unauthorized",
+            "Not found",
+            "Redirect"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q8",
+          "category": "SQL",
+          "text": "Which expression returns the number of rows in a table?",
+          "options": [
+            "SUM(*)",
+            "TOTAL(*)",
+            "COUNT(*)",
+            "ROWS(*)"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q1",
+          "category": "Logical Reasoning",
+          "text": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+          "options": [
+            "38",
+            "40",
+            "42",
+            "44"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q4",
+          "category": "Quantitative Aptitude",
+          "text": "Two numbers are in the ratio 3:5 and their sum is 64. What is the larger number?",
+          "options": [
+            "24",
+            "32",
+            "40",
+            "48"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q5",
+          "category": "Python",
+          "text": "What does print(3 * 'ab') output in Python?",
+          "options": [
+            "ab3",
+            "ababab",
+            "6ab",
+            "Error"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q9",
+          "category": "Computer Science",
+          "text": "Which data structure follows the Last-In, First-Out (LIFO) principle?",
+          "options": [
+            "Queue",
+            "Stack",
+            "Array",
+            "Graph"
+          ],
+          "answer": 1
+        }
+      ],
+      "completed": true
+    },
+    "1b369968-b610-43a7-8bee-0b47a8831443": {
+      "id": "1b369968-b610-43a7-8bee-0b47a8831443",
+      "name": "Rajesh",
+      "startedAt": 1792719822562,
+      "questionSnapshot": [
+        {
+          "id": "q8",
+          "category": "SQL",
+          "text": "Which expression returns the number of rows in a table?",
+          "options": [
+            "SUM(*)",
+            "TOTAL(*)",
+            "COUNT(*)",
+            "ROWS(*)"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q9",
+          "category": "Computer Science",
+          "text": "Which data structure follows the Last-In, First-Out (LIFO) principle?",
+          "options": [
+            "Queue",
+            "Stack",
+            "Array",
+            "Graph"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q4",
+          "category": "Quantitative Aptitude",
+          "text": "Two numbers are in the ratio 3:5 and their sum is 64. What is the larger number?",
+          "options": [
+            "24",
+            "32",
+            "40",
+            "48"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q6",
+          "category": "Python",
+          "text": "Which keyword is used to define a function in Python?",
+          "options": [
+            "func",
+            "function",
+            "def",
+            "lambda only"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q7",
+          "category": "SQL",
+          "text": "Which SQL clause filters rows before they are grouped?",
+          "options": [
+            "HAVING",
+            "WHERE",
+            "ORDER BY",
+            "LIMIT"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q3",
+          "category": "Quantitative Aptitude",
+          "text": "A chair priced at ₹2,500 is sold at a 20% discount. What is the selling price?",
+          "options": [
+            "₹1,800",
+            "₹2,000",
+            "₹2,100",
+            "₹2,250"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q10",
+          "category": "Technology",
+          "text": "What does the HTTP status code 404 indicate?",
+          "options": [
+            "Server error",
+            "Unauthorized",
+            "Not found",
+            "Redirect"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q1",
+          "category": "Logical Reasoning",
+          "text": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+          "options": [
+            "38",
+            "40",
+            "42",
+            "44"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q2",
+          "category": "Logical Reasoning",
+          "text": "All Bloops are Razzies, and all Razzies are Lazzies. Which statement must be true?",
+          "options": [
+            "All Lazzies are Bloops",
+            "All Bloops are Lazzies",
+            "No Razzies are Bloops",
+            "Some Lazzies are not Razzies"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q5",
+          "category": "Python",
+          "text": "What does print(3 * 'ab') output in Python?",
+          "options": [
+            "ab3",
+            "ababab",
+            "6ab",
+            "Error"
+          ],
+          "answer": 1
+        }
+      ],
+      "completed": true
+    },
+    "36e07e2b-7ced-4216-ad67-c81962f69af9": {
+      "id": "36e07e2b-7ced-4216-ad67-c81962f69af9",
+      "name": "MERLIN RAJESH",
+      "startedAt": 1792720217095,
+      "questionSnapshot": [
+        {
+          "id": "q2",
+          "category": "Logical Reasoning",
+          "text": "All Bloops are Razzies, and all Razzies are Lazzies. Which statement must be true?",
+          "options": [
+            "All Lazzies are Bloops",
+            "All Bloops are Lazzies",
+            "No Razzies are Bloops",
+            "Some Lazzies are not Razzies"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q7",
+          "category": "SQL",
+          "text": "Which SQL clause filters rows before they are grouped?",
+          "options": [
+            "HAVING",
+            "WHERE",
+            "ORDER BY",
+            "LIMIT"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q9",
+          "category": "Computer Science",
+          "text": "Which data structure follows the Last-In, First-Out (LIFO) principle?",
+          "options": [
+            "Queue",
+            "Stack",
+            "Array",
+            "Graph"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q4",
+          "category": "Quantitative Aptitude",
+          "text": "Two numbers are in the ratio 3:5 and their sum is 64. What is the larger number?",
+          "options": [
+            "24",
+            "32",
+            "40",
+            "48"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q10",
+          "category": "Technology",
+          "text": "What does the HTTP status code 404 indicate?",
+          "options": [
+            "Server error",
+            "Unauthorized",
+            "Not found",
+            "Redirect"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q1",
+          "category": "Logical Reasoning",
+          "text": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+          "options": [
+            "38",
+            "40",
+            "42",
+            "44"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q6",
+          "category": "Python",
+          "text": "Which keyword is used to define a function in Python?",
+          "options": [
+            "func",
+            "function",
+            "def",
+            "lambda only"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q3",
+          "category": "Quantitative Aptitude",
+          "text": "A chair priced at ₹2,500 is sold at a 20% discount. What is the selling price?",
+          "options": [
+            "₹1,800",
+            "₹2,000",
+            "₹2,100",
+            "₹2,250"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q5",
+          "category": "Python",
+          "text": "What does print(3 * 'ab') output in Python?",
+          "options": [
+            "ab3",
+            "ababab",
+            "6ab",
+            "Error"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q8",
+          "category": "SQL",
+          "text": "Which expression returns the number of rows in a table?",
+          "options": [
+            "SUM(*)",
+            "TOTAL(*)",
+            "COUNT(*)",
+            "ROWS(*)"
+          ],
+          "answer": 2
+        }
+      ],
+      "completed": false
+    },
+    "c890af4c-2c00-42eb-a4c4-240e1117656c": {
+      "id": "c890af4c-2c00-42eb-a4c4-240e1117656c",
+      "name": "Merlin raj",
+      "startedAt": 1792720286311,
+      "questionSnapshot": [
+        {
+          "id": "q10",
+          "category": "Technology",
+          "text": "What does the HTTP status code 404 indicate?",
+          "options": [
+            "Server error",
+            "Unauthorized",
+            "Not found",
+            "Redirect"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q8",
+          "category": "SQL",
+          "text": "Which expression returns the number of rows in a table?",
+          "options": [
+            "SUM(*)",
+            "TOTAL(*)",
+            "COUNT(*)",
+            "ROWS(*)"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q9",
+          "category": "Computer Science",
+          "text": "Which data structure follows the Last-In, First-Out (LIFO) principle?",
+          "options": [
+            "Queue",
+            "Stack",
+            "Array",
+            "Graph"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q1",
+          "category": "Logical Reasoning",
+          "text": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+          "options": [
+            "38",
+            "40",
+            "42",
+            "44"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q2",
+          "category": "Logical Reasoning",
+          "text": "All Bloops are Razzies, and all Razzies are Lazzies. Which statement must be true?",
+          "options": [
+            "All Lazzies are Bloops",
+            "All Bloops are Lazzies",
+            "No Razzies are Bloops",
+            "Some Lazzies are not Razzies"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q5",
+          "category": "Python",
+          "text": "What does print(3 * 'ab') output in Python?",
+          "options": [
+            "ab3",
+            "ababab",
+            "6ab",
+            "Error"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q6",
+          "category": "Python",
+          "text": "Which keyword is used to define a function in Python?",
+          "options": [
+            "func",
+            "function",
+            "def",
+            "lambda only"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q3",
+          "category": "Quantitative Aptitude",
+          "text": "A chair priced at ₹2,500 is sold at a 20% discount. What is the selling price?",
+          "options": [
+            "₹1,800",
+            "₹2,000",
+            "₹2,100",
+            "₹2,250"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q4",
+          "category": "Quantitative Aptitude",
+          "text": "Two numbers are in the ratio 3:5 and their sum is 64. What is the larger number?",
+          "options": [
+            "24",
+            "32",
+            "40",
+            "48"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q7",
+          "category": "SQL",
+          "text": "Which SQL clause filters rows before they are grouped?",
+          "options": [
+            "HAVING",
+            "WHERE",
+            "ORDER BY",
+            "LIMIT"
+          ],
+          "answer": 1
+        }
+      ],
+      "completed": true
+    },
+    "79c22009-d8d9-4543-a50c-302caf3e90cc": {
+      "id": "79c22009-d8d9-4543-a50c-302caf3e90cc",
+      "name": "jjjj",
+      "startedAt": 1792721179629,
+      "questionSnapshot": [
+        {
+          "id": "q2",
+          "category": "Logical Reasoning",
+          "text": "All Bloops are Razzies, and all Razzies are Lazzies. Which statement must be true?",
+          "options": [
+            "All Lazzies are Bloops",
+            "All Bloops are Lazzies",
+            "No Razzies are Bloops",
+            "Some Lazzies are not Razzies"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q7",
+          "category": "SQL",
+          "text": "Which SQL clause filters rows before they are grouped?",
+          "options": [
+            "HAVING",
+            "WHERE",
+            "ORDER BY",
+            "LIMIT"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q4",
+          "category": "Quantitative Aptitude",
+          "text": "Two numbers are in the ratio 3:5 and their sum is 64. What is the larger number?",
+          "options": [
+            "24",
+            "32",
+            "40",
+            "48"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q9",
+          "category": "Computer Science",
+          "text": "Which data structure follows the Last-In, First-Out (LIFO) principle?",
+          "options": [
+            "Queue",
+            "Stack",
+            "Array",
+            "Graph"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q5",
+          "category": "Python",
+          "text": "What does print(3 * 'ab') output in Python?",
+          "options": [
+            "ab3",
+            "ababab",
+            "6ab",
+            "Error"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q3",
+          "category": "Quantitative Aptitude",
+          "text": "A chair priced at ₹2,500 is sold at a 20% discount. What is the selling price?",
+          "options": [
+            "₹1,800",
+            "₹2,000",
+            "₹2,100",
+            "₹2,250"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q10",
+          "category": "Technology",
+          "text": "What does the HTTP status code 404 indicate?",
+          "options": [
+            "Server error",
+            "Unauthorized",
+            "Not found",
+            "Redirect"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q6",
+          "category": "Python",
+          "text": "Which keyword is used to define a function in Python?",
+          "options": [
+            "func",
+            "function",
+            "def",
+            "lambda only"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q1",
+          "category": "Logical Reasoning",
+          "text": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+          "options": [
+            "38",
+            "40",
+            "42",
+            "44"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q8",
+          "category": "SQL",
+          "text": "Which expression returns the number of rows in a table?",
+          "options": [
+            "SUM(*)",
+            "TOTAL(*)",
+            "COUNT(*)",
+            "ROWS(*)"
+          ],
+          "answer": 2
+        }
+      ],
+      "completed": true
+    },
+    "c39207bd-880f-49dd-a937-63b8cd895937": {
+      "id": "c39207bd-880f-49dd-a937-63b8cd895937",
+      "name": "kk",
+      "startedAt": 1792721309538,
+      "questionSnapshot": [
+        {
+          "id": "q1",
+          "category": "Logical Reasoning",
+          "text": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+          "options": [
+            "38",
+            "40",
+            "42",
+            "44"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q5",
+          "category": "Python",
+          "text": "What does print(3 * 'ab') output in Python?",
+          "options": [
+            "ab3",
+            "ababab",
+            "6ab",
+            "Error"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q4",
+          "category": "Quantitative Aptitude",
+          "text": "Two numbers are in the ratio 3:5 and their sum is 64. What is the larger number?",
+          "options": [
+            "24",
+            "32",
+            "40",
+            "48"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q7",
+          "category": "SQL",
+          "text": "Which SQL clause filters rows before they are grouped?",
+          "options": [
+            "HAVING",
+            "WHERE",
+            "ORDER BY",
+            "LIMIT"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q8",
+          "category": "SQL",
+          "text": "Which expression returns the number of rows in a table?",
+          "options": [
+            "SUM(*)",
+            "TOTAL(*)",
+            "COUNT(*)",
+            "ROWS(*)"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q9",
+          "category": "Computer Science",
+          "text": "Which data structure follows the Last-In, First-Out (LIFO) principle?",
+          "options": [
+            "Queue",
+            "Stack",
+            "Array",
+            "Graph"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q2",
+          "category": "Logical Reasoning",
+          "text": "All Bloops are Razzies, and all Razzies are Lazzies. Which statement must be true?",
+          "options": [
+            "All Lazzies are Bloops",
+            "All Bloops are Lazzies",
+            "No Razzies are Bloops",
+            "Some Lazzies are not Razzies"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q3",
+          "category": "Quantitative Aptitude",
+          "text": "A chair priced at ₹2,500 is sold at a 20% discount. What is the selling price?",
+          "options": [
+            "₹1,800",
+            "₹2,000",
+            "₹2,100",
+            "₹2,250"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q10",
+          "category": "Technology",
+          "text": "What does the HTTP status code 404 indicate?",
+          "options": [
+            "Server error",
+            "Unauthorized",
+            "Not found",
+            "Redirect"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q6",
+          "category": "Python",
+          "text": "Which keyword is used to define a function in Python?",
+          "options": [
+            "func",
+            "function",
+            "def",
+            "lambda only"
+          ],
+          "answer": 2
+        }
+      ],
+      "completed": true
+    },
+    "9e7dcac2-79e3-437f-930f-16b6f5222531": {
+      "id": "9e7dcac2-79e3-437f-930f-16b6f5222531",
+      "name": "llll",
+      "startedAt": 1792721464906,
+      "questionSnapshot": [
+        {
+          "id": "q5",
+          "category": "Python",
+          "text": "What does print(3 * 'ab') output in Python?",
+          "kind": "mcq",
+          "options": [
+            "ab3",
+            "ababab",
+            "6ab",
+            "Error"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q4",
+          "category": "Quantitative Aptitude",
+          "text": "Two numbers are in the ratio 3:5 and their sum is 64. What is the larger number?",
+          "kind": "mcq",
+          "options": [
+            "24",
+            "32",
+            "40",
+            "48"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q10",
+          "category": "Technology",
+          "text": "What does the HTTP status code 404 indicate?",
+          "kind": "mcq",
+          "options": [
+            "Server error",
+            "Unauthorized",
+            "Not found",
+            "Redirect"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q9",
+          "category": "Computer Science",
+          "text": "Which data structure follows the Last-In, First-Out (LIFO) principle?",
+          "kind": "mcq",
+          "options": [
+            "Queue",
+            "Stack",
+            "Array",
+            "Graph"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q8",
+          "category": "SQL",
+          "text": "Which expression returns the number of rows in a table?",
+          "kind": "mcq",
+          "options": [
+            "SUM(*)",
+            "TOTAL(*)",
+            "COUNT(*)",
+            "ROWS(*)"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q6",
+          "category": "Python",
+          "text": "Which keyword is used to define a function in Python?",
+          "kind": "mcq",
+          "options": [
+            "func",
+            "function",
+            "def",
+            "lambda only"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q3",
+          "category": "Quantitative Aptitude",
+          "text": "A chair priced at ₹2,500 is sold at a 20% discount. What is the selling price?",
+          "kind": "mcq",
+          "options": [
+            "₹1,800",
+            "₹2,000",
+            "₹2,100",
+            "₹2,250"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q7",
+          "category": "SQL",
+          "text": "Which SQL clause filters rows before they are grouped?",
+          "kind": "mcq",
+          "options": [
+            "HAVING",
+            "WHERE",
+            "ORDER BY",
+            "LIMIT"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q2",
+          "category": "Logical Reasoning",
+          "text": "All Bloops are Razzies, and all Razzies are Lazzies. Which statement must be true?",
+          "kind": "mcq",
+          "options": [
+            "All Lazzies are Bloops",
+            "All Bloops are Lazzies",
+            "No Razzies are Bloops",
+            "Some Lazzies are not Razzies"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q1",
+          "category": "Logical Reasoning",
+          "text": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+          "kind": "mcq",
+          "options": [
+            "38",
+            "40",
+            "42",
+            "44"
+          ],
+          "answer": 2
+        }
+      ],
+      "completed": false
+    },
+    "2569cf39-7942-427e-ad21-b6cdb2306fb7": {
+      "id": "2569cf39-7942-427e-ad21-b6cdb2306fb7",
+      "name": "Merlin k",
+      "startedAt": 1792724007314,
+      "questionSnapshot": [
+        {
+          "id": "q7",
+          "category": "SQL",
+          "text": "Which SQL clause filters rows before they are grouped?",
+          "kind": "mcq",
+          "options": [
+            "HAVING",
+            "WHERE",
+            "ORDER BY",
+            "LIMIT"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q8",
+          "category": "SQL",
+          "text": "Which expression returns the number of rows in a table?",
+          "kind": "mcq",
+          "options": [
+            "SUM(*)",
+            "TOTAL(*)",
+            "COUNT(*)",
+            "ROWS(*)"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q10",
+          "category": "Technology",
+          "text": "What does the HTTP status code 404 indicate?",
+          "kind": "mcq",
+          "options": [
+            "Server error",
+            "Unauthorized",
+            "Not found",
+            "Redirect"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q6",
+          "category": "Python",
+          "text": "Which keyword is used to define a function in Python?",
+          "kind": "mcq",
+          "options": [
+            "func",
+            "function",
+            "def",
+            "lambda only"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q1",
+          "category": "Logical Reasoning",
+          "text": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+          "kind": "mcq",
+          "options": [
+            "38",
+            "40",
+            "42",
+            "44"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q5",
+          "category": "Python",
+          "text": "What does print(3 * 'ab') output in Python?",
+          "kind": "mcq",
+          "options": [
+            "ab3",
+            "ababab",
+            "6ab",
+            "Error"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q4",
+          "category": "Quantitative Aptitude",
+          "text": "Two numbers are in the ratio 3:5 and their sum is 64. What is the larger number?",
+          "kind": "mcq",
+          "options": [
+            "24",
+            "32",
+            "40",
+            "48"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q2",
+          "category": "Logical Reasoning",
+          "text": "All Bloops are Razzies, and all Razzies are Lazzies. Which statement must be true?",
+          "kind": "mcq",
+          "options": [
+            "All Lazzies are Bloops",
+            "All Bloops are Lazzies",
+            "No Razzies are Bloops",
+            "Some Lazzies are not Razzies"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q9",
+          "category": "Computer Science",
+          "text": "Which data structure follows the Last-In, First-Out (LIFO) principle?",
+          "kind": "mcq",
+          "options": [
+            "Queue",
+            "Stack",
+            "Array",
+            "Graph"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q3",
+          "category": "Quantitative Aptitude",
+          "text": "A chair priced at ₹2,500 is sold at a 20% discount. What is the selling price?",
+          "kind": "mcq",
+          "options": [
+            "₹1,800",
+            "₹2,000",
+            "₹2,100",
+            "₹2,250"
+          ],
+          "answer": 1
+        }
+      ],
+      "completed": true
+    },
+    "ed0a83e7-96b2-4929-8cec-a89024e9163c": {
+      "id": "ed0a83e7-96b2-4929-8cec-a89024e9163c",
+      "name": "Merlin K",
+      "startedAt": 1792725051955,
+      "questionSnapshot": [
+        {
+          "id": "q6",
+          "category": "Python",
+          "text": "Which keyword is used to define a function in Python?",
+          "kind": "mcq",
+          "options": [
+            "func",
+            "function",
+            "def",
+            "lambda only"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q3",
+          "category": "Quantitative Aptitude",
+          "text": "A chair priced at ₹2,500 is sold at a 20% discount. What is the selling price?",
+          "kind": "mcq",
+          "options": [
+            "₹1,800",
+            "₹2,000",
+            "₹2,100",
+            "₹2,250"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q1",
+          "category": "Logical Reasoning",
+          "text": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+          "kind": "mcq",
+          "options": [
+            "38",
+            "40",
+            "42",
+            "44"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91",
+          "category": "Arrays",
+          "text": "Given an array of integers nums and an integer target, return the indices of the two numbers whose sum equals target. Each input has exactly one solution, and you may not use the same element twice. Return the indices in any order.",
+          "kind": "coding",
+          "options": [],
+          "constraints": "2 <= nums.length <= 10000\n-1000000000 <= nums[i] <= 1000000000\n-1000000000 <= target <= 1000000000\nExactly one valid solution exists.",
+          "examples": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "output": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,2,4],\"target\":6}",
+              "output": "[1,2]"
+            }
+          ],
+          "testCases": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,3],\"target\":6}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[-1,-2,-3,-4,-5],\"target\":-8}",
+              "expectedOutput": "[2,4]"
+            },
+            {
+              "input": "{\"nums\":[0,4,3,0],\"target\":0}",
+              "expectedOutput": "[0,3]"
+            },
+            {
+              "input": "{\"nums\":[1,5,3,7],\"target\":8}",
+              "expectedOutput": "[1,2]"
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "category": "Logical Reasoning",
+          "text": "All Bloops are Razzies, and all Razzies are Lazzies. Which statement must be true?",
+          "kind": "mcq",
+          "options": [
+            "All Lazzies are Bloops",
+            "All Bloops are Lazzies",
+            "No Razzies are Bloops",
+            "Some Lazzies are not Razzies"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q5",
+          "category": "Python",
+          "text": "What does print(3 * 'ab') output in Python?",
+          "kind": "mcq",
+          "options": [
+            "ab3",
+            "ababab",
+            "6ab",
+            "Error"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q9",
+          "category": "Computer Science",
+          "text": "Which data structure follows the Last-In, First-Out (LIFO) principle?",
+          "kind": "mcq",
+          "options": [
+            "Queue",
+            "Stack",
+            "Array",
+            "Graph"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q7",
+          "category": "SQL",
+          "text": "Which SQL clause filters rows before they are grouped?",
+          "kind": "mcq",
+          "options": [
+            "HAVING",
+            "WHERE",
+            "ORDER BY",
+            "LIMIT"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q4",
+          "category": "Quantitative Aptitude",
+          "text": "Two numbers are in the ratio 3:5 and their sum is 64. What is the larger number?",
+          "kind": "mcq",
+          "options": [
+            "24",
+            "32",
+            "40",
+            "48"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q8",
+          "category": "SQL",
+          "text": "Which expression returns the number of rows in a table?",
+          "kind": "mcq",
+          "options": [
+            "SUM(*)",
+            "TOTAL(*)",
+            "COUNT(*)",
+            "ROWS(*)"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q10",
+          "category": "Technology",
+          "text": "What does the HTTP status code 404 indicate?",
+          "kind": "mcq",
+          "options": [
+            "Server error",
+            "Unauthorized",
+            "Not found",
+            "Redirect"
+          ],
+          "answer": 2
+        }
+      ],
+      "completed": true
+    },
+    "d0764917-8ad0-49bc-a8f1-b0218f685410": {
+      "id": "d0764917-8ad0-49bc-a8f1-b0218f685410",
+      "name": "RAJA",
+      "startedAt": 1792726297469,
+      "questionSnapshot": [
+        {
+          "id": "q4",
+          "category": "Quantitative Aptitude",
+          "text": "Two numbers are in the ratio 3:5 and their sum is 64. What is the larger number?",
+          "kind": "mcq",
+          "options": [
+            "24",
+            "32",
+            "40",
+            "48"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q6",
+          "category": "Python",
+          "text": "Which keyword is used to define a function in Python?",
+          "kind": "mcq",
+          "options": [
+            "func",
+            "function",
+            "def",
+            "lambda only"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q3",
+          "category": "Quantitative Aptitude",
+          "text": "A chair priced at ₹2,500 is sold at a 20% discount. What is the selling price?",
+          "kind": "mcq",
+          "options": [
+            "₹1,800",
+            "₹2,000",
+            "₹2,100",
+            "₹2,250"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q7",
+          "category": "SQL",
+          "text": "Which SQL clause filters rows before they are grouped?",
+          "kind": "mcq",
+          "options": [
+            "HAVING",
+            "WHERE",
+            "ORDER BY",
+            "LIMIT"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q5",
+          "category": "Python",
+          "text": "What does print(3 * 'ab') output in Python?",
+          "kind": "mcq",
+          "options": [
+            "ab3",
+            "ababab",
+            "6ab",
+            "Error"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q2",
+          "category": "Logical Reasoning",
+          "text": "All Bloops are Razzies, and all Razzies are Lazzies. Which statement must be true?",
+          "kind": "mcq",
+          "options": [
+            "All Lazzies are Bloops",
+            "All Bloops are Lazzies",
+            "No Razzies are Bloops",
+            "Some Lazzies are not Razzies"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q8",
+          "category": "SQL",
+          "text": "Which expression returns the number of rows in a table?",
+          "kind": "mcq",
+          "options": [
+            "SUM(*)",
+            "TOTAL(*)",
+            "COUNT(*)",
+            "ROWS(*)"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91",
+          "category": "Arrays",
+          "text": "Given an array of integers nums and an integer target, return the indices of the two numbers whose sum equals target. Each input has exactly one solution, and you may not use the same element twice. Return the indices in any order.",
+          "kind": "coding",
+          "options": [],
+          "constraints": "2 <= nums.length <= 10000\n-1000000000 <= nums[i] <= 1000000000\n-1000000000 <= target <= 1000000000\nExactly one valid solution exists.",
+          "examples": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "output": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,2,4],\"target\":6}",
+              "output": "[1,2]"
+            }
+          ],
+          "testCases": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,3],\"target\":6}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[-1,-2,-3,-4,-5],\"target\":-8}",
+              "expectedOutput": "[2,4]"
+            },
+            {
+              "input": "{\"nums\":[0,4,3,0],\"target\":0}",
+              "expectedOutput": "[0,3]"
+            },
+            {
+              "input": "{\"nums\":[1,5,3,7],\"target\":8}",
+              "expectedOutput": "[1,2]"
+            }
+          ]
+        },
+        {
+          "id": "q1",
+          "category": "Logical Reasoning",
+          "text": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+          "kind": "mcq",
+          "options": [
+            "38",
+            "40",
+            "42",
+            "44"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q9",
+          "category": "Computer Science",
+          "text": "Which data structure follows the Last-In, First-Out (LIFO) principle?",
+          "kind": "mcq",
+          "options": [
+            "Queue",
+            "Stack",
+            "Array",
+            "Graph"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q10",
+          "category": "Technology",
+          "text": "What does the HTTP status code 404 indicate?",
+          "kind": "mcq",
+          "options": [
+            "Server error",
+            "Unauthorized",
+            "Not found",
+            "Redirect"
+          ],
+          "answer": 2
+        }
+      ],
+      "completed": true
+    },
+    "d8474dbf-c188-4b20-a5d5-03e84b31990b": {
+      "id": "d8474dbf-c188-4b20-a5d5-03e84b31990b",
+      "name": "chan",
+      "startedAt": 1792727805034,
+      "questionSnapshot": [
+        {
+          "id": "q7",
+          "category": "SQL",
+          "text": "Which SQL clause filters rows before they are grouped?",
+          "kind": "mcq",
+          "options": [
+            "HAVING",
+            "WHERE",
+            "ORDER BY",
+            "LIMIT"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q5",
+          "category": "Python",
+          "text": "What does print(3 * 'ab') output in Python?",
+          "kind": "mcq",
+          "options": [
+            "ab3",
+            "ababab",
+            "6ab",
+            "Error"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q1",
+          "category": "Logical Reasoning",
+          "text": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+          "kind": "mcq",
+          "options": [
+            "38",
+            "40",
+            "42",
+            "44"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q4",
+          "category": "Quantitative Aptitude",
+          "text": "Two numbers are in the ratio 3:5 and their sum is 64. What is the larger number?",
+          "kind": "mcq",
+          "options": [
+            "24",
+            "32",
+            "40",
+            "48"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q2",
+          "category": "Logical Reasoning",
+          "text": "All Bloops are Razzies, and all Razzies are Lazzies. Which statement must be true?",
+          "kind": "mcq",
+          "options": [
+            "All Lazzies are Bloops",
+            "All Bloops are Lazzies",
+            "No Razzies are Bloops",
+            "Some Lazzies are not Razzies"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q9",
+          "category": "Computer Science",
+          "text": "Which data structure follows the Last-In, First-Out (LIFO) principle?",
+          "kind": "mcq",
+          "options": [
+            "Queue",
+            "Stack",
+            "Array",
+            "Graph"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q8",
+          "category": "SQL",
+          "text": "Which expression returns the number of rows in a table?",
+          "kind": "mcq",
+          "options": [
+            "SUM(*)",
+            "TOTAL(*)",
+            "COUNT(*)",
+            "ROWS(*)"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q10",
+          "category": "Technology",
+          "text": "What does the HTTP status code 404 indicate?",
+          "kind": "mcq",
+          "options": [
+            "Server error",
+            "Unauthorized",
+            "Not found",
+            "Redirect"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q6",
+          "category": "Python",
+          "text": "Which keyword is used to define a function in Python?",
+          "kind": "mcq",
+          "options": [
+            "func",
+            "function",
+            "def",
+            "lambda only"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q3",
+          "category": "Quantitative Aptitude",
+          "text": "A chair priced at ₹2,500 is sold at a 20% discount. What is the selling price?",
+          "kind": "mcq",
+          "options": [
+            "₹1,800",
+            "₹2,000",
+            "₹2,100",
+            "₹2,250"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91",
+          "category": "Arrays",
+          "text": "Given an array of integers nums and an integer target, return the indices of the two numbers whose sum equals target. Each input has exactly one solution, and you may not use the same element twice. Return the indices in any order.",
+          "kind": "coding",
+          "options": [],
+          "constraints": "2 <= nums.length <= 10000\n-1000000000 <= nums[i] <= 1000000000\n-1000000000 <= target <= 1000000000\nExactly one valid solution exists.",
+          "examples": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "output": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,2,4],\"target\":6}",
+              "output": "[1,2]"
+            }
+          ],
+          "testCases": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,3],\"target\":6}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[-1,-2,-3,-4,-5],\"target\":-8}",
+              "expectedOutput": "[2,4]"
+            },
+            {
+              "input": "{\"nums\":[0,4,3,0],\"target\":0}",
+              "expectedOutput": "[0,3]"
+            },
+            {
+              "input": "{\"nums\":[1,5,3,7],\"target\":8}",
+              "expectedOutput": "[1,2]"
+            }
+          ]
+        }
+      ],
+      "completed": true
+    },
+    "f3063913-0bc0-482e-8f61-34c208b991db": {
+      "id": "f3063913-0bc0-482e-8f61-34c208b991db",
+      "name": "LINN RAJ",
+      "startedAt": 1792728368675,
+      "questionSnapshot": [
+        {
+          "id": "q7",
+          "category": "SQL",
+          "text": "Which SQL clause filters rows before they are grouped?",
+          "kind": "mcq",
+          "options": [
+            "HAVING",
+            "WHERE",
+            "ORDER BY",
+            "LIMIT"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q4",
+          "category": "Quantitative Aptitude",
+          "text": "Two numbers are in the ratio 3:5 and their sum is 64. What is the larger number?",
+          "kind": "mcq",
+          "options": [
+            "24",
+            "32",
+            "40",
+            "48"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q2",
+          "category": "Logical Reasoning",
+          "text": "All Bloops are Razzies, and all Razzies are Lazzies. Which statement must be true?",
+          "kind": "mcq",
+          "options": [
+            "All Lazzies are Bloops",
+            "All Bloops are Lazzies",
+            "No Razzies are Bloops",
+            "Some Lazzies are not Razzies"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q1",
+          "category": "Logical Reasoning",
+          "text": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+          "kind": "mcq",
+          "options": [
+            "38",
+            "40",
+            "42",
+            "44"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q9",
+          "category": "Computer Science",
+          "text": "Which data structure follows the Last-In, First-Out (LIFO) principle?",
+          "kind": "mcq",
+          "options": [
+            "Queue",
+            "Stack",
+            "Array",
+            "Graph"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q6",
+          "category": "Python",
+          "text": "Which keyword is used to define a function in Python?",
+          "kind": "mcq",
+          "options": [
+            "func",
+            "function",
+            "def",
+            "lambda only"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q8",
+          "category": "SQL",
+          "text": "Which expression returns the number of rows in a table?",
+          "kind": "mcq",
+          "options": [
+            "SUM(*)",
+            "TOTAL(*)",
+            "COUNT(*)",
+            "ROWS(*)"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q10",
+          "category": "Technology",
+          "text": "What does the HTTP status code 404 indicate?",
+          "kind": "mcq",
+          "options": [
+            "Server error",
+            "Unauthorized",
+            "Not found",
+            "Redirect"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q3",
+          "category": "Quantitative Aptitude",
+          "text": "A chair priced at ₹2,500 is sold at a 20% discount. What is the selling price?",
+          "kind": "mcq",
+          "options": [
+            "₹1,800",
+            "₹2,000",
+            "₹2,100",
+            "₹2,250"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q5",
+          "category": "Python",
+          "text": "What does print(3 * 'ab') output in Python?",
+          "kind": "mcq",
+          "options": [
+            "ab3",
+            "ababab",
+            "6ab",
+            "Error"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91",
+          "category": "Arrays",
+          "text": "Given an array of integers nums and an integer target, return the indices of the two numbers whose sum equals target. Each input has exactly one solution, and you may not use the same element twice. Return the indices in any order.",
+          "kind": "coding",
+          "options": [],
+          "constraints": "2 <= nums.length <= 10000\n-1000000000 <= nums[i] <= 1000000000\n-1000000000 <= target <= 1000000000\nExactly one valid solution exists.",
+          "examples": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "output": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,2,4],\"target\":6}",
+              "output": "[1,2]"
+            }
+          ],
+          "testCases": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,3],\"target\":6}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[-1,-2,-3,-4,-5],\"target\":-8}",
+              "expectedOutput": "[2,4]"
+            },
+            {
+              "input": "{\"nums\":[0,4,3,0],\"target\":0}",
+              "expectedOutput": "[0,3]"
+            },
+            {
+              "input": "{\"nums\":[1,5,3,7],\"target\":8}",
+              "expectedOutput": "[1,2]"
+            }
+          ]
+        }
+      ],
+      "completed": false
+    },
+    "f8786cfc-0e97-4eee-b9e3-c77140bcfb2b": {
+      "id": "f8786cfc-0e97-4eee-b9e3-c77140bcfb2b",
+      "name": "MERURAJ",
+      "startedAt": 1792728650431,
+      "questionSnapshot": [
+        {
+          "id": "q8",
+          "category": "SQL",
+          "text": "Which expression returns the number of rows in a table?",
+          "kind": "mcq",
+          "options": [
+            "SUM(*)",
+            "TOTAL(*)",
+            "COUNT(*)",
+            "ROWS(*)"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q9",
+          "category": "Computer Science",
+          "text": "Which data structure follows the Last-In, First-Out (LIFO) principle?",
+          "kind": "mcq",
+          "options": [
+            "Queue",
+            "Stack",
+            "Array",
+            "Graph"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q1",
+          "category": "Logical Reasoning",
+          "text": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+          "kind": "mcq",
+          "options": [
+            "38",
+            "40",
+            "42",
+            "44"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q5",
+          "category": "Python",
+          "text": "What does print(3 * 'ab') output in Python?",
+          "kind": "mcq",
+          "options": [
+            "ab3",
+            "ababab",
+            "6ab",
+            "Error"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q6",
+          "category": "Python",
+          "text": "Which keyword is used to define a function in Python?",
+          "kind": "mcq",
+          "options": [
+            "func",
+            "function",
+            "def",
+            "lambda only"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q3",
+          "category": "Quantitative Aptitude",
+          "text": "A chair priced at ₹2,500 is sold at a 20% discount. What is the selling price?",
+          "kind": "mcq",
+          "options": [
+            "₹1,800",
+            "₹2,000",
+            "₹2,100",
+            "₹2,250"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q10",
+          "category": "Technology",
+          "text": "What does the HTTP status code 404 indicate?",
+          "kind": "mcq",
+          "options": [
+            "Server error",
+            "Unauthorized",
+            "Not found",
+            "Redirect"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q7",
+          "category": "SQL",
+          "text": "Which SQL clause filters rows before they are grouped?",
+          "kind": "mcq",
+          "options": [
+            "HAVING",
+            "WHERE",
+            "ORDER BY",
+            "LIMIT"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q2",
+          "category": "Logical Reasoning",
+          "text": "All Bloops are Razzies, and all Razzies are Lazzies. Which statement must be true?",
+          "kind": "mcq",
+          "options": [
+            "All Lazzies are Bloops",
+            "All Bloops are Lazzies",
+            "No Razzies are Bloops",
+            "Some Lazzies are not Razzies"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q4",
+          "category": "Quantitative Aptitude",
+          "text": "Two numbers are in the ratio 3:5 and their sum is 64. What is the larger number?",
+          "kind": "mcq",
+          "options": [
+            "24",
+            "32",
+            "40",
+            "48"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91",
+          "category": "Arrays",
+          "text": "Given an array of integers nums and an integer target, return the indices of the two numbers whose sum equals target. Each input has exactly one solution, and you may not use the same element twice. Return the indices in any order.",
+          "kind": "coding",
+          "options": [],
+          "constraints": "2 <= nums.length <= 10000\n-1000000000 <= nums[i] <= 1000000000\n-1000000000 <= target <= 1000000000\nExactly one valid solution exists.",
+          "examples": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "output": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,2,4],\"target\":6}",
+              "output": "[1,2]"
+            }
+          ],
+          "testCases": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,3],\"target\":6}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[-1,-2,-3,-4,-5],\"target\":-8}",
+              "expectedOutput": "[2,4]"
+            },
+            {
+              "input": "{\"nums\":[0,4,3,0],\"target\":0}",
+              "expectedOutput": "[0,3]"
+            },
+            {
+              "input": "{\"nums\":[1,5,3,7],\"target\":8}",
+              "expectedOutput": "[1,2]"
+            }
+          ]
+        }
+      ],
+      "completed": false,
+      "codeDrafts": {
+        "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91": {
+          "language": "python",
+          "source": "import json\nimport sys\n\ndef two_sum(nums, target):\n    seen = {}\n    for index, number in enumerate(nums):\n        complement = target - number\n        if complement in seen:\n            return [seen[complement], index]\n        seen[number] = index\n    raise ValueError(\"No solution found\")\n\ndata = json.loads(sys.stdin.read())\nanswer = two_sum(data[\"nums\"], data[\"target\"])\nprint(json.dumps(answer, separators=(\",\", \":\")))",
+          "savedAt": "2026-10-23T04:18:44.322Z"
+        }
+      }
+    },
+    "c4b64263-83eb-4a08-9c06-866575345d75": {
+      "id": "c4b64263-83eb-4a08-9c06-866575345d75",
+      "name": "RAJESHMERLIN",
+      "startedAt": 1792729266993,
+      "questionSnapshot": [
+        {
+          "id": "q4",
+          "category": "Quantitative Aptitude",
+          "text": "Two numbers are in the ratio 3:5 and their sum is 64. What is the larger number?",
+          "kind": "mcq",
+          "options": [
+            "24",
+            "32",
+            "40",
+            "48"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q9",
+          "category": "Computer Science",
+          "text": "Which data structure follows the Last-In, First-Out (LIFO) principle?",
+          "kind": "mcq",
+          "options": [
+            "Queue",
+            "Stack",
+            "Array",
+            "Graph"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q1",
+          "category": "Logical Reasoning",
+          "text": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+          "kind": "mcq",
+          "options": [
+            "38",
+            "40",
+            "42",
+            "44"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q3",
+          "category": "Quantitative Aptitude",
+          "text": "A chair priced at ₹2,500 is sold at a 20% discount. What is the selling price?",
+          "kind": "mcq",
+          "options": [
+            "₹1,800",
+            "₹2,000",
+            "₹2,100",
+            "₹2,250"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q2",
+          "category": "Logical Reasoning",
+          "text": "All Bloops are Razzies, and all Razzies are Lazzies. Which statement must be true?",
+          "kind": "mcq",
+          "options": [
+            "All Lazzies are Bloops",
+            "All Bloops are Lazzies",
+            "No Razzies are Bloops",
+            "Some Lazzies are not Razzies"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q5",
+          "category": "Python",
+          "text": "What does print(3 * 'ab') output in Python?",
+          "kind": "mcq",
+          "options": [
+            "ab3",
+            "ababab",
+            "6ab",
+            "Error"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q8",
+          "category": "SQL",
+          "text": "Which expression returns the number of rows in a table?",
+          "kind": "mcq",
+          "options": [
+            "SUM(*)",
+            "TOTAL(*)",
+            "COUNT(*)",
+            "ROWS(*)"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q10",
+          "category": "Technology",
+          "text": "What does the HTTP status code 404 indicate?",
+          "kind": "mcq",
+          "options": [
+            "Server error",
+            "Unauthorized",
+            "Not found",
+            "Redirect"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q6",
+          "category": "Python",
+          "text": "Which keyword is used to define a function in Python?",
+          "kind": "mcq",
+          "options": [
+            "func",
+            "function",
+            "def",
+            "lambda only"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q7",
+          "category": "SQL",
+          "text": "Which SQL clause filters rows before they are grouped?",
+          "kind": "mcq",
+          "options": [
+            "HAVING",
+            "WHERE",
+            "ORDER BY",
+            "LIMIT"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91",
+          "category": "Arrays",
+          "text": "Given an array of integers nums and an integer target, return the indices of the two numbers whose sum equals target. Each input has exactly one solution, and you may not use the same element twice. Return the indices in any order.",
+          "kind": "coding",
+          "options": [],
+          "constraints": "2 <= nums.length <= 10000\n-1000000000 <= nums[i] <= 1000000000\n-1000000000 <= target <= 1000000000\nExactly one valid solution exists.",
+          "examples": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "output": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,2,4],\"target\":6}",
+              "output": "[1,2]"
+            }
+          ],
+          "testCases": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,3],\"target\":6}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[-1,-2,-3,-4,-5],\"target\":-8}",
+              "expectedOutput": "[2,4]"
+            },
+            {
+              "input": "{\"nums\":[0,4,3,0],\"target\":0}",
+              "expectedOutput": "[0,3]"
+            },
+            {
+              "input": "{\"nums\":[1,5,3,7],\"target\":8}",
+              "expectedOutput": "[1,2]"
+            }
+          ]
+        }
+      ],
+      "completed": true,
+      "codeDrafts": {
+        "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91": {
+          "language": "python",
+          "source": "import json\nimport sys\n\ndef two_sum(nums, target):\n    seen = {}\n    for index, number in enumerate(nums):\n        complement = target - number\n        if complement in seen:\n            return [seen[complement], index]\n        seen[number] = index\n    raise ValueError(\"No solution found\")\n\ndata = json.loads(sys.stdin.read())\nanswer = two_sum(data[\"nums\"], data[\"target\"])\nprint(json.dumps(answer, separators=(\",\", \":\")))",
+          "savedAt": "2026-10-23T04:22:47.933Z"
+        }
+      },
+      "codingSubmissions": {
+        "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91": {
+          "language": "python",
+          "source": "import json\nimport sys\n\ndef two_sum(nums, target):\n    seen = {}\n    for index, number in enumerate(nums):\n        complement = target - number\n        if complement in seen:\n            return [seen[complement], index]\n        seen[number] = index\n    raise ValueError(\"No solution found\")\n\ndata = json.loads(sys.stdin.read())\nanswer = two_sum(data[\"nums\"], data[\"target\"])\nprint(json.dumps(answer, separators=(\",\", \":\")))",
+          "score": 1,
+          "passed": 5,
+          "total": 5,
+          "submittedAt": "2026-10-23T04:22:33.870Z"
+        }
+      }
+    },
+    "f51ff737-5765-442c-94e8-7cc08ce83b8b": {
+      "id": "f51ff737-5765-442c-94e8-7cc08ce83b8b",
+      "name": "raja",
+      "startedAt": 1792729658825,
+      "questionSnapshot": [
+        {
+          "id": "q6",
+          "category": "Python",
+          "text": "Which keyword is used to define a function in Python?",
+          "kind": "mcq",
+          "options": [
+            "func",
+            "function",
+            "def",
+            "lambda only"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q4",
+          "category": "Quantitative Aptitude",
+          "text": "Two numbers are in the ratio 3:5 and their sum is 64. What is the larger number?",
+          "kind": "mcq",
+          "options": [
+            "24",
+            "32",
+            "40",
+            "48"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q10",
+          "category": "Technology",
+          "text": "What does the HTTP status code 404 indicate?",
+          "kind": "mcq",
+          "options": [
+            "Server error",
+            "Unauthorized",
+            "Not found",
+            "Redirect"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q5",
+          "category": "Python",
+          "text": "What does print(3 * 'ab') output in Python?",
+          "kind": "mcq",
+          "options": [
+            "ab3",
+            "ababab",
+            "6ab",
+            "Error"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q8",
+          "category": "SQL",
+          "text": "Which expression returns the number of rows in a table?",
+          "kind": "mcq",
+          "options": [
+            "SUM(*)",
+            "TOTAL(*)",
+            "COUNT(*)",
+            "ROWS(*)"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q3",
+          "category": "Quantitative Aptitude",
+          "text": "A chair priced at ₹2,500 is sold at a 20% discount. What is the selling price?",
+          "kind": "mcq",
+          "options": [
+            "₹1,800",
+            "₹2,000",
+            "₹2,100",
+            "₹2,250"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q7",
+          "category": "SQL",
+          "text": "Which SQL clause filters rows before they are grouped?",
+          "kind": "mcq",
+          "options": [
+            "HAVING",
+            "WHERE",
+            "ORDER BY",
+            "LIMIT"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q2",
+          "category": "Logical Reasoning",
+          "text": "All Bloops are Razzies, and all Razzies are Lazzies. Which statement must be true?",
+          "kind": "mcq",
+          "options": [
+            "All Lazzies are Bloops",
+            "All Bloops are Lazzies",
+            "No Razzies are Bloops",
+            "Some Lazzies are not Razzies"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q9",
+          "category": "Computer Science",
+          "text": "Which data structure follows the Last-In, First-Out (LIFO) principle?",
+          "kind": "mcq",
+          "options": [
+            "Queue",
+            "Stack",
+            "Array",
+            "Graph"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q1",
+          "category": "Logical Reasoning",
+          "text": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+          "kind": "mcq",
+          "options": [
+            "38",
+            "40",
+            "42",
+            "44"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91",
+          "category": "Arrays",
+          "text": "Given an array of integers nums and an integer target, return the indices of the two numbers whose sum equals target. Each input has exactly one solution, and you may not use the same element twice. Return the indices in any order.",
+          "kind": "coding",
+          "options": [],
+          "constraints": "2 <= nums.length <= 10000\n-1000000000 <= nums[i] <= 1000000000\n-1000000000 <= target <= 1000000000\nExactly one valid solution exists.",
+          "examples": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "output": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,2,4],\"target\":6}",
+              "output": "[1,2]"
+            }
+          ],
+          "testCases": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,3],\"target\":6}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[-1,-2,-3,-4,-5],\"target\":-8}",
+              "expectedOutput": "[2,4]"
+            },
+            {
+              "input": "{\"nums\":[0,4,3,0],\"target\":0}",
+              "expectedOutput": "[0,3]"
+            },
+            {
+              "input": "{\"nums\":[1,5,3,7],\"target\":8}",
+              "expectedOutput": "[1,2]"
+            }
+          ]
+        }
+      ],
+      "completed": false,
+      "codeDrafts": {
+        "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91": {
+          "language": "python",
+          "source": "import json\nimport sys\n\ndef two_sum(nums, target):\n    seen = {}\n    for index, number in enumerate(nums):\n        complement = target - number\n        if complement in seen:\n            return [seen[complement], index]\n        seen[number] = index\n    raise ValueError(\"No solution found\")\n\ndata = json.loads(sys.stdin.read())\nanswer = two_sum(data[\"nums\"], data[\"target\"])\nprint(json.dumps(answer, separators=(\",\", \":\")))",
+          "savedAt": "2026-10-23T04:30:15.395Z"
+        }
+      }
+    },
+    "9cac6e5a-5735-47e2-a4d2-72670eb9f1e5": {
+      "id": "9cac6e5a-5735-47e2-a4d2-72670eb9f1e5",
+      "name": "Merlinrajeshbritto",
+      "startedAt": 1792730087432,
+      "questionSnapshot": [
+        {
+          "id": "q8",
+          "category": "SQL",
+          "text": "Which expression returns the number of rows in a table?",
+          "kind": "mcq",
+          "options": [
+            "SUM(*)",
+            "TOTAL(*)",
+            "COUNT(*)",
+            "ROWS(*)"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q2",
+          "category": "Logical Reasoning",
+          "text": "All Bloops are Razzies, and all Razzies are Lazzies. Which statement must be true?",
+          "kind": "mcq",
+          "options": [
+            "All Lazzies are Bloops",
+            "All Bloops are Lazzies",
+            "No Razzies are Bloops",
+            "Some Lazzies are not Razzies"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q5",
+          "category": "Python",
+          "text": "What does print(3 * 'ab') output in Python?",
+          "kind": "mcq",
+          "options": [
+            "ab3",
+            "ababab",
+            "6ab",
+            "Error"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q7",
+          "category": "SQL",
+          "text": "Which SQL clause filters rows before they are grouped?",
+          "kind": "mcq",
+          "options": [
+            "HAVING",
+            "WHERE",
+            "ORDER BY",
+            "LIMIT"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q9",
+          "category": "Computer Science",
+          "text": "Which data structure follows the Last-In, First-Out (LIFO) principle?",
+          "kind": "mcq",
+          "options": [
+            "Queue",
+            "Stack",
+            "Array",
+            "Graph"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q3",
+          "category": "Quantitative Aptitude",
+          "text": "A chair priced at ₹2,500 is sold at a 20% discount. What is the selling price?",
+          "kind": "mcq",
+          "options": [
+            "₹1,800",
+            "₹2,000",
+            "₹2,100",
+            "₹2,250"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q10",
+          "category": "Technology",
+          "text": "What does the HTTP status code 404 indicate?",
+          "kind": "mcq",
+          "options": [
+            "Server error",
+            "Unauthorized",
+            "Not found",
+            "Redirect"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q6",
+          "category": "Python",
+          "text": "Which keyword is used to define a function in Python?",
+          "kind": "mcq",
+          "options": [
+            "func",
+            "function",
+            "def",
+            "lambda only"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q1",
+          "category": "Logical Reasoning",
+          "text": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+          "kind": "mcq",
+          "options": [
+            "38",
+            "40",
+            "42",
+            "44"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q4",
+          "category": "Quantitative Aptitude",
+          "text": "Two numbers are in the ratio 3:5 and their sum is 64. What is the larger number?",
+          "kind": "mcq",
+          "options": [
+            "24",
+            "32",
+            "40",
+            "48"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91",
+          "category": "Arrays",
+          "text": "Given an array of integers nums and an integer target, return the indices of the two numbers whose sum equals target. Each input has exactly one solution, and you may not use the same element twice. Return the indices in any order.",
+          "kind": "coding",
+          "options": [],
+          "constraints": "2 <= nums.length <= 10000\n-1000000000 <= nums[i] <= 1000000000\n-1000000000 <= target <= 1000000000\nExactly one valid solution exists.",
+          "examples": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "output": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,2,4],\"target\":6}",
+              "output": "[1,2]"
+            }
+          ],
+          "testCases": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,3],\"target\":6}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[-1,-2,-3,-4,-5],\"target\":-8}",
+              "expectedOutput": "[2,4]"
+            },
+            {
+              "input": "{\"nums\":[0,4,3,0],\"target\":0}",
+              "expectedOutput": "[0,3]"
+            },
+            {
+              "input": "{\"nums\":[1,5,3,7],\"target\":8}",
+              "expectedOutput": "[1,2]"
+            }
+          ]
+        }
+      ],
+      "completed": false,
+      "codeDrafts": {
+        "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91": {
+          "language": "python",
+          "source": "import json\nimport sys\n\ndef two_sum(nums, target):\n    seen = {}\n    for index, number in enumerate(nums):\n        complement = target - number\n        if complement in seen:\n            return [seen[complement], index]\n        seen[number] = index\n    raise ValueError(\"No solution found\")\n\ndata = json.loads(sys.stdin.read())\nanswer = two_sum(data[\"nums\"], data[\"target\"])\nprint(json.dumps(answer, separators=(\",\", \":\")))",
+          "savedAt": "2026-10-23T04:35:19.509Z"
+        }
+      }
+    },
+    "8a3d0c8a-4bd7-4cf5-ab70-4928ae0d4c89": {
+      "id": "8a3d0c8a-4bd7-4cf5-ab70-4928ae0d4c89",
+      "name": "rajeshmerlinn",
+      "startedAt": 1792730330331,
+      "questionSnapshot": [
+        {
+          "id": "q10",
+          "category": "Technology",
+          "text": "What does the HTTP status code 404 indicate?",
+          "kind": "mcq",
+          "options": [
+            "Server error",
+            "Unauthorized",
+            "Not found",
+            "Redirect"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q8",
+          "category": "SQL",
+          "text": "Which expression returns the number of rows in a table?",
+          "kind": "mcq",
+          "options": [
+            "SUM(*)",
+            "TOTAL(*)",
+            "COUNT(*)",
+            "ROWS(*)"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q3",
+          "category": "Quantitative Aptitude",
+          "text": "A chair priced at ₹2,500 is sold at a 20% discount. What is the selling price?",
+          "kind": "mcq",
+          "options": [
+            "₹1,800",
+            "₹2,000",
+            "₹2,100",
+            "₹2,250"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q1",
+          "category": "Logical Reasoning",
+          "text": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+          "kind": "mcq",
+          "options": [
+            "38",
+            "40",
+            "42",
+            "44"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q6",
+          "category": "Python",
+          "text": "Which keyword is used to define a function in Python?",
+          "kind": "mcq",
+          "options": [
+            "func",
+            "function",
+            "def",
+            "lambda only"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q5",
+          "category": "Python",
+          "text": "What does print(3 * 'ab') output in Python?",
+          "kind": "mcq",
+          "options": [
+            "ab3",
+            "ababab",
+            "6ab",
+            "Error"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q7",
+          "category": "SQL",
+          "text": "Which SQL clause filters rows before they are grouped?",
+          "kind": "mcq",
+          "options": [
+            "HAVING",
+            "WHERE",
+            "ORDER BY",
+            "LIMIT"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q4",
+          "category": "Quantitative Aptitude",
+          "text": "Two numbers are in the ratio 3:5 and their sum is 64. What is the larger number?",
+          "kind": "mcq",
+          "options": [
+            "24",
+            "32",
+            "40",
+            "48"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q9",
+          "category": "Computer Science",
+          "text": "Which data structure follows the Last-In, First-Out (LIFO) principle?",
+          "kind": "mcq",
+          "options": [
+            "Queue",
+            "Stack",
+            "Array",
+            "Graph"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q2",
+          "category": "Logical Reasoning",
+          "text": "All Bloops are Razzies, and all Razzies are Lazzies. Which statement must be true?",
+          "kind": "mcq",
+          "options": [
+            "All Lazzies are Bloops",
+            "All Bloops are Lazzies",
+            "No Razzies are Bloops",
+            "Some Lazzies are not Razzies"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91",
+          "category": "Arrays",
+          "text": "Given an array of integers nums and an integer target, return the indices of the two numbers whose sum equals target. Each input has exactly one solution, and you may not use the same element twice. Return the indices in any order.",
+          "kind": "coding",
+          "options": [],
+          "constraints": "2 <= nums.length <= 10000\n-1000000000 <= nums[i] <= 1000000000\n-1000000000 <= target <= 1000000000\nExactly one valid solution exists.",
+          "examples": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "output": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,2,4],\"target\":6}",
+              "output": "[1,2]"
+            }
+          ],
+          "testCases": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,3],\"target\":6}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[-1,-2,-3,-4,-5],\"target\":-8}",
+              "expectedOutput": "[2,4]"
+            },
+            {
+              "input": "{\"nums\":[0,4,3,0],\"target\":0}",
+              "expectedOutput": "[0,3]"
+            },
+            {
+              "input": "{\"nums\":[1,5,3,7],\"target\":8}",
+              "expectedOutput": "[1,2]"
+            }
+          ]
+        }
+      ],
+      "completed": true,
+      "codeDrafts": {
+        "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91": {
+          "language": "python",
+          "source": "import json\nimport sys\n\ndef two_sum(nums, target):\n    seen = {}\n    for index, number in enumerate(nums):\n        complement = target - number\n        if complement in seen:\n            return [seen[complement], index]\n        seen[number] = index\n    raise ValueError(\"No solution found\")\n\ndata = json.loads(sys.stdin.read())\nanswer = two_sum(data[\"nums\"], data[\"target\"])\nprint(json.dumps(answer, separators=(\",\", \":\")))",
+          "savedAt": "2026-10-23T04:40:11.656Z"
+        }
+      }
+    },
+    "da5d3270-2d11-4e78-827b-63c48d410877": {
+      "id": "da5d3270-2d11-4e78-827b-63c48d410877",
+      "name": "vjh",
+      "startedAt": 1792730493661,
+      "questionSnapshot": [
+        {
+          "id": "q7",
+          "category": "SQL",
+          "text": "Which SQL clause filters rows before they are grouped?",
+          "kind": "mcq",
+          "options": [
+            "HAVING",
+            "WHERE",
+            "ORDER BY",
+            "LIMIT"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q4",
+          "category": "Quantitative Aptitude",
+          "text": "Two numbers are in the ratio 3:5 and their sum is 64. What is the larger number?",
+          "kind": "mcq",
+          "options": [
+            "24",
+            "32",
+            "40",
+            "48"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q6",
+          "category": "Python",
+          "text": "Which keyword is used to define a function in Python?",
+          "kind": "mcq",
+          "options": [
+            "func",
+            "function",
+            "def",
+            "lambda only"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q10",
+          "category": "Technology",
+          "text": "What does the HTTP status code 404 indicate?",
+          "kind": "mcq",
+          "options": [
+            "Server error",
+            "Unauthorized",
+            "Not found",
+            "Redirect"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q3",
+          "category": "Quantitative Aptitude",
+          "text": "A chair priced at ₹2,500 is sold at a 20% discount. What is the selling price?",
+          "kind": "mcq",
+          "options": [
+            "₹1,800",
+            "₹2,000",
+            "₹2,100",
+            "₹2,250"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q5",
+          "category": "Python",
+          "text": "What does print(3 * 'ab') output in Python?",
+          "kind": "mcq",
+          "options": [
+            "ab3",
+            "ababab",
+            "6ab",
+            "Error"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q2",
+          "category": "Logical Reasoning",
+          "text": "All Bloops are Razzies, and all Razzies are Lazzies. Which statement must be true?",
+          "kind": "mcq",
+          "options": [
+            "All Lazzies are Bloops",
+            "All Bloops are Lazzies",
+            "No Razzies are Bloops",
+            "Some Lazzies are not Razzies"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q8",
+          "category": "SQL",
+          "text": "Which expression returns the number of rows in a table?",
+          "kind": "mcq",
+          "options": [
+            "SUM(*)",
+            "TOTAL(*)",
+            "COUNT(*)",
+            "ROWS(*)"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q1",
+          "category": "Logical Reasoning",
+          "text": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+          "kind": "mcq",
+          "options": [
+            "38",
+            "40",
+            "42",
+            "44"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q9",
+          "category": "Computer Science",
+          "text": "Which data structure follows the Last-In, First-Out (LIFO) principle?",
+          "kind": "mcq",
+          "options": [
+            "Queue",
+            "Stack",
+            "Array",
+            "Graph"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91",
+          "category": "Arrays",
+          "text": "Given an array of integers nums and an integer target, return the indices of the two numbers whose sum equals target. Each input has exactly one solution, and you may not use the same element twice. Return the indices in any order.",
+          "kind": "coding",
+          "options": [],
+          "constraints": "2 <= nums.length <= 10000\n-1000000000 <= nums[i] <= 1000000000\n-1000000000 <= target <= 1000000000\nExactly one valid solution exists.",
+          "examples": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "output": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,2,4],\"target\":6}",
+              "output": "[1,2]"
+            }
+          ],
+          "testCases": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,3],\"target\":6}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[-1,-2,-3,-4,-5],\"target\":-8}",
+              "expectedOutput": "[2,4]"
+            },
+            {
+              "input": "{\"nums\":[0,4,3,0],\"target\":0}",
+              "expectedOutput": "[0,3]"
+            },
+            {
+              "input": "{\"nums\":[1,5,3,7],\"target\":8}",
+              "expectedOutput": "[1,2]"
+            }
+          ]
+        }
+      ],
+      "completed": true,
+      "codeDrafts": {
+        "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91": {
+          "language": "python",
+          "source": "import json\nimport sys\n\ndef two_sum(nums, target):\n    seen = {}\n    for index, number in enumerate(nums):\n        complement = target - number\n        if complement in seen:\n            return [seen[complement], index]\n        seen[number] = index\n    raise ValueError(\"No solution found\")\n\ndata = json.loads(sys.stdin.read())\nanswer = two_sum(data[\"nums\"], data[\"target\"])\nprint(json.dumps(answer, separators=(\",\", \":\")))",
+          "savedAt": "2026-10-23T04:44:18.506Z"
+        }
+      },
+      "codingSubmissions": {
+        "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91": {
+          "language": "python",
+          "source": "import json\nimport sys\n\ndef two_sum(nums, target):\n    seen = {}\n    for index, number in enumerate(nums):\n        complement = target - number\n        if complement in seen:\n            return [seen[complement], index]\n        seen[number] = index\n    raise ValueError(\"No solution found\")\n\ndata = json.loads(sys.stdin.read())\nanswer = two_sum(data[\"nums\"], data[\"target\"])\nprint(json.dumps(answer, separators=(\",\", \":\")))",
+          "score": 1,
+          "passed": 5,
+          "total": 5,
+          "submittedAt": "2026-10-23T04:44:41.236Z"
+        }
+      }
+    },
+    "49f83629-7d3f-4f84-aea6-44eaa59caa23": {
+      "id": "49f83629-7d3f-4f84-aea6-44eaa59caa23",
+      "name": "linnn",
+      "startedAt": 1792730741806,
+      "questionSnapshot": [
+        {
+          "id": "q9",
+          "category": "Computer Science",
+          "text": "Which data structure follows the Last-In, First-Out (LIFO) principle?",
+          "kind": "mcq",
+          "options": [
+            "Queue",
+            "Stack",
+            "Array",
+            "Graph"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q1",
+          "category": "Logical Reasoning",
+          "text": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+          "kind": "mcq",
+          "options": [
+            "38",
+            "40",
+            "42",
+            "44"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q8",
+          "category": "SQL",
+          "text": "Which expression returns the number of rows in a table?",
+          "kind": "mcq",
+          "options": [
+            "SUM(*)",
+            "TOTAL(*)",
+            "COUNT(*)",
+            "ROWS(*)"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q4",
+          "category": "Quantitative Aptitude",
+          "text": "Two numbers are in the ratio 3:5 and their sum is 64. What is the larger number?",
+          "kind": "mcq",
+          "options": [
+            "24",
+            "32",
+            "40",
+            "48"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q6",
+          "category": "Python",
+          "text": "Which keyword is used to define a function in Python?",
+          "kind": "mcq",
+          "options": [
+            "func",
+            "function",
+            "def",
+            "lambda only"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q7",
+          "category": "SQL",
+          "text": "Which SQL clause filters rows before they are grouped?",
+          "kind": "mcq",
+          "options": [
+            "HAVING",
+            "WHERE",
+            "ORDER BY",
+            "LIMIT"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q10",
+          "category": "Technology",
+          "text": "What does the HTTP status code 404 indicate?",
+          "kind": "mcq",
+          "options": [
+            "Server error",
+            "Unauthorized",
+            "Not found",
+            "Redirect"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q5",
+          "category": "Python",
+          "text": "What does print(3 * 'ab') output in Python?",
+          "kind": "mcq",
+          "options": [
+            "ab3",
+            "ababab",
+            "6ab",
+            "Error"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q3",
+          "category": "Quantitative Aptitude",
+          "text": "A chair priced at ₹2,500 is sold at a 20% discount. What is the selling price?",
+          "kind": "mcq",
+          "options": [
+            "₹1,800",
+            "₹2,000",
+            "₹2,100",
+            "₹2,250"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q2",
+          "category": "Logical Reasoning",
+          "text": "All Bloops are Razzies, and all Razzies are Lazzies. Which statement must be true?",
+          "kind": "mcq",
+          "options": [
+            "All Lazzies are Bloops",
+            "All Bloops are Lazzies",
+            "No Razzies are Bloops",
+            "Some Lazzies are not Razzies"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91",
+          "category": "Arrays",
+          "text": "Given an array of integers nums and an integer target, return the indices of the two numbers whose sum equals target. Each input has exactly one solution, and you may not use the same element twice. Return the indices in any order.",
+          "kind": "coding",
+          "options": [],
+          "constraints": "2 <= nums.length <= 10000\n-1000000000 <= nums[i] <= 1000000000\n-1000000000 <= target <= 1000000000\nExactly one valid solution exists.",
+          "examples": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "output": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,2,4],\"target\":6}",
+              "output": "[1,2]"
+            }
+          ],
+          "testCases": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,3],\"target\":6}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[-1,-2,-3,-4,-5],\"target\":-8}",
+              "expectedOutput": "[2,4]"
+            },
+            {
+              "input": "{\"nums\":[0,4,3,0],\"target\":0}",
+              "expectedOutput": "[0,3]"
+            },
+            {
+              "input": "{\"nums\":[1,5,3,7],\"target\":8}",
+              "expectedOutput": "[1,2]"
+            }
+          ]
+        }
+      ],
+      "completed": true,
+      "codeDrafts": {
+        "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91": {
+          "language": "python",
+          "source": "import json\nimport sys\n\ndef two_sum(nums, target):\n    seen = {}\n    for index, number in enumerate(nums):\n        complement = target - number\n        if complement in seen:\n            return [seen[complement], index]\n        seen[number] = index\n    raise ValueError(\"No solution found\")\n\ndata = json.loads(sys.stdin.read())\nanswer = two_sum(data[\"nums\"], data[\"target\"])\nprint(json.dumps(answer, separators=(\",\", \":\")))",
+          "savedAt": "2026-10-23T04:47:37.848Z"
+        }
+      },
+      "codingSubmissions": {
+        "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91": {
+          "language": "python",
+          "source": "import json\nimport sys\n\ndef two_sum(nums, target):\n    seen = {}\n    for index, number in enumerate(nums):\n        complement = target - number\n        if complement in seen:\n            return [seen[complement], index]\n        seen[number] = index\n    raise ValueError(\"No solution found\")\n\ndata = json.loads(sys.stdin.read())\nanswer = two_sum(data[\"nums\"], data[\"target\"])\nprint(json.dumps(answer, separators=(\",\", \":\")))",
+          "score": 1,
+          "passed": 5,
+          "total": 5,
+          "submittedAt": "2026-10-23T04:48:43.934Z"
+        }
+      }
+    },
+    "78875960-ff4a-4cec-894a-c7b388e26303": {
+      "id": "78875960-ff4a-4cec-894a-c7b388e26303",
+      "name": "Merlin R",
+      "startedAt": 1792815348444,
+      "questionSnapshot": [
+        {
+          "id": "q9",
+          "category": "Computer Science",
+          "text": "Which data structure follows the Last-In, First-Out (LIFO) principle?",
+          "kind": "mcq",
+          "options": [
+            "Queue",
+            "Stack",
+            "Array",
+            "Graph"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q1",
+          "category": "Logical Reasoning",
+          "text": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+          "kind": "mcq",
+          "options": [
+            "38",
+            "40",
+            "42",
+            "44"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q8",
+          "category": "SQL",
+          "text": "Which expression returns the number of rows in a table?",
+          "kind": "mcq",
+          "options": [
+            "SUM(*)",
+            "TOTAL(*)",
+            "COUNT(*)",
+            "ROWS(*)"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q7",
+          "category": "SQL",
+          "text": "Which SQL clause filters rows before they are grouped?",
+          "kind": "mcq",
+          "options": [
+            "HAVING",
+            "WHERE",
+            "ORDER BY",
+            "LIMIT"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q5",
+          "category": "Python",
+          "text": "What does print(3 * 'ab') output in Python?",
+          "kind": "mcq",
+          "options": [
+            "ab3",
+            "ababab",
+            "6ab",
+            "Error"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q6",
+          "category": "Python",
+          "text": "Which keyword is used to define a function in Python?",
+          "kind": "mcq",
+          "options": [
+            "func",
+            "function",
+            "def",
+            "lambda only"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q3",
+          "category": "Quantitative Aptitude",
+          "text": "A chair priced at ₹2,500 is sold at a 20% discount. What is the selling price?",
+          "kind": "mcq",
+          "options": [
+            "₹1,800",
+            "₹2,000",
+            "₹2,100",
+            "₹2,250"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q4",
+          "category": "Quantitative Aptitude",
+          "text": "Two numbers are in the ratio 3:5 and their sum is 64. What is the larger number?",
+          "kind": "mcq",
+          "options": [
+            "24",
+            "32",
+            "40",
+            "48"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q2",
+          "category": "Logical Reasoning",
+          "text": "All Bloops are Razzies, and all Razzies are Lazzies. Which statement must be true?",
+          "kind": "mcq",
+          "options": [
+            "All Lazzies are Bloops",
+            "All Bloops are Lazzies",
+            "No Razzies are Bloops",
+            "Some Lazzies are not Razzies"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q10",
+          "category": "Technology",
+          "text": "What does the HTTP status code 404 indicate?",
+          "kind": "mcq",
+          "options": [
+            "Server error",
+            "Unauthorized",
+            "Not found",
+            "Redirect"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91",
+          "category": "Arrays",
+          "text": "Given an array of integers nums and an integer target, return the indices of the two numbers whose sum equals target. Each input has exactly one solution, and you may not use the same element twice. Return the indices in any order.",
+          "kind": "coding",
+          "options": [],
+          "constraints": "2 <= nums.length <= 10000\n-1000000000 <= nums[i] <= 1000000000\n-1000000000 <= target <= 1000000000\nExactly one valid solution exists.",
+          "examples": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "output": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,2,4],\"target\":6}",
+              "output": "[1,2]"
+            }
+          ],
+          "testCases": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,3],\"target\":6}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[-1,-2,-3,-4,-5],\"target\":-8}",
+              "expectedOutput": "[2,4]"
+            },
+            {
+              "input": "{\"nums\":[0,4,3,0],\"target\":0}",
+              "expectedOutput": "[0,3]"
+            },
+            {
+              "input": "{\"nums\":[1,5,3,7],\"target\":8}",
+              "expectedOutput": "[1,2]"
+            }
+          ]
+        }
+      ],
+      "completed": true,
+      "codeDrafts": {
+        "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91": {
+          "language": "python",
+          "source": "import sys\n\ndef solve():\n    data = sys.stdin.read()\n    # Parse the input and implement your solution\n    list1=[0,1]\n    print(list1)\n\nif __name__ == \"__main__\":\n    solve()\n",
+          "savedAt": "2026-10-24T04:20:03.951Z"
+        }
+      },
+      "codingSubmissions": {
+        "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91": {
+          "language": "python",
+          "source": "import sys\n\ndef solve():\n    data = sys.stdin.read()\n    # Parse the input and implement your solution\n    list1=[0,1]\n    print(list1)\n\nif __name__ == \"__main__\":\n    solve()\n",
+          "score": 0.4,
+          "passed": 2,
+          "total": 5,
+          "submittedAt": "2026-10-24T04:20:17.098Z"
+        }
+      }
+    },
+    "8c3894ae-70e7-4616-bcdc-9a30eafa174d": {
+      "id": "8c3894ae-70e7-4616-bcdc-9a30eafa174d",
+      "name": "Merlin R",
+      "startedAt": 1792815668498,
+      "questionSnapshot": [
+        {
+          "id": "q2",
+          "category": "Logical Reasoning",
+          "text": "All Bloops are Razzies, and all Razzies are Lazzies. Which statement must be true?",
+          "kind": "mcq",
+          "options": [
+            "All Lazzies are Bloops",
+            "All Bloops are Lazzies",
+            "No Razzies are Bloops",
+            "Some Lazzies are not Razzies"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q4",
+          "category": "Quantitative Aptitude",
+          "text": "Two numbers are in the ratio 3:5 and their sum is 64. What is the larger number?",
+          "kind": "mcq",
+          "options": [
+            "24",
+            "32",
+            "40",
+            "48"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q5",
+          "category": "Python",
+          "text": "What does print(3 * 'ab') output in Python?",
+          "kind": "mcq",
+          "options": [
+            "ab3",
+            "ababab",
+            "6ab",
+            "Error"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q9",
+          "category": "Computer Science",
+          "text": "Which data structure follows the Last-In, First-Out (LIFO) principle?",
+          "kind": "mcq",
+          "options": [
+            "Queue",
+            "Stack",
+            "Array",
+            "Graph"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q1",
+          "category": "Logical Reasoning",
+          "text": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+          "kind": "mcq",
+          "options": [
+            "38",
+            "40",
+            "42",
+            "44"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q10",
+          "category": "Technology",
+          "text": "What does the HTTP status code 404 indicate?",
+          "kind": "mcq",
+          "options": [
+            "Server error",
+            "Unauthorized",
+            "Not found",
+            "Redirect"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q8",
+          "category": "SQL",
+          "text": "Which expression returns the number of rows in a table?",
+          "kind": "mcq",
+          "options": [
+            "SUM(*)",
+            "TOTAL(*)",
+            "COUNT(*)",
+            "ROWS(*)"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q6",
+          "category": "Python",
+          "text": "Which keyword is used to define a function in Python?",
+          "kind": "mcq",
+          "options": [
+            "func",
+            "function",
+            "def",
+            "lambda only"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q7",
+          "category": "SQL",
+          "text": "Which SQL clause filters rows before they are grouped?",
+          "kind": "mcq",
+          "options": [
+            "HAVING",
+            "WHERE",
+            "ORDER BY",
+            "LIMIT"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q3",
+          "category": "Quantitative Aptitude",
+          "text": "A chair priced at ₹2,500 is sold at a 20% discount. What is the selling price?",
+          "kind": "mcq",
+          "options": [
+            "₹1,800",
+            "₹2,000",
+            "₹2,100",
+            "₹2,250"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91",
+          "category": "Arrays",
+          "text": "Given an array of integers nums and an integer target, return the indices of the two numbers whose sum equals target. Each input has exactly one solution, and you may not use the same element twice. Return the indices in any order.",
+          "kind": "coding",
+          "options": [],
+          "constraints": "2 <= nums.length <= 10000\n-1000000000 <= nums[i] <= 1000000000\n-1000000000 <= target <= 1000000000\nExactly one valid solution exists.",
+          "examples": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "output": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,2,4],\"target\":6}",
+              "output": "[1,2]"
+            }
+          ],
+          "testCases": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,3],\"target\":6}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[-1,-2,-3,-4,-5],\"target\":-8}",
+              "expectedOutput": "[2,4]"
+            },
+            {
+              "input": "{\"nums\":[0,4,3,0],\"target\":0}",
+              "expectedOutput": "[0,3]"
+            },
+            {
+              "input": "{\"nums\":[1,5,3,7],\"target\":8}",
+              "expectedOutput": "[1,2]"
+            }
+          ]
+        }
+      ],
+      "completed": true,
+      "codeDrafts": {
+        "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91": {
+          "language": "python",
+          "source": "import sys\n\ndef solve():\n    data = sys.stdin.read()\n    # Parse the input and implement your solution.\n    list1=[0,1]\n    print(list1)\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+          "savedAt": "2026-10-24T04:21:52.325Z"
+        }
+      }
+    },
+    "3f9a97a6-2c51-44c4-b8eb-47bae8e66f05": {
+      "id": "3f9a97a6-2c51-44c4-b8eb-47bae8e66f05",
+      "name": "w",
+      "startedAt": 1792815981420,
+      "questionSnapshot": [
+        {
+          "id": "q8",
+          "category": "SQL",
+          "text": "Which expression returns the number of rows in a table?",
+          "kind": "mcq",
+          "options": [
+            "SUM(*)",
+            "TOTAL(*)",
+            "COUNT(*)",
+            "ROWS(*)"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q9",
+          "category": "Computer Science",
+          "text": "Which data structure follows the Last-In, First-Out (LIFO) principle?",
+          "kind": "mcq",
+          "options": [
+            "Queue",
+            "Stack",
+            "Array",
+            "Graph"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q10",
+          "category": "Technology",
+          "text": "What does the HTTP status code 404 indicate?",
+          "kind": "mcq",
+          "options": [
+            "Server error",
+            "Unauthorized",
+            "Not found",
+            "Redirect"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q2",
+          "category": "Logical Reasoning",
+          "text": "All Bloops are Razzies, and all Razzies are Lazzies. Which statement must be true?",
+          "kind": "mcq",
+          "options": [
+            "All Lazzies are Bloops",
+            "All Bloops are Lazzies",
+            "No Razzies are Bloops",
+            "Some Lazzies are not Razzies"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q1",
+          "category": "Logical Reasoning",
+          "text": "What comes next in the series: 2, 6, 12, 20, 30, ?",
+          "kind": "mcq",
+          "options": [
+            "38",
+            "40",
+            "42",
+            "44"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q5",
+          "category": "Python",
+          "text": "What does print(3 * 'ab') output in Python?",
+          "kind": "mcq",
+          "options": [
+            "ab3",
+            "ababab",
+            "6ab",
+            "Error"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q3",
+          "category": "Quantitative Aptitude",
+          "text": "A chair priced at ₹2,500 is sold at a 20% discount. What is the selling price?",
+          "kind": "mcq",
+          "options": [
+            "₹1,800",
+            "₹2,000",
+            "₹2,100",
+            "₹2,250"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q6",
+          "category": "Python",
+          "text": "Which keyword is used to define a function in Python?",
+          "kind": "mcq",
+          "options": [
+            "func",
+            "function",
+            "def",
+            "lambda only"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q4",
+          "category": "Quantitative Aptitude",
+          "text": "Two numbers are in the ratio 3:5 and their sum is 64. What is the larger number?",
+          "kind": "mcq",
+          "options": [
+            "24",
+            "32",
+            "40",
+            "48"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q7",
+          "category": "SQL",
+          "text": "Which SQL clause filters rows before they are grouped?",
+          "kind": "mcq",
+          "options": [
+            "HAVING",
+            "WHERE",
+            "ORDER BY",
+            "LIMIT"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91",
+          "category": "Arrays",
+          "text": "Given an array of integers nums and an integer target, return the indices of the two numbers whose sum equals target. Each input has exactly one solution, and you may not use the same element twice. Return the indices in any order.",
+          "kind": "coding",
+          "options": [],
+          "constraints": "2 <= nums.length <= 10000\n-1000000000 <= nums[i] <= 1000000000\n-1000000000 <= target <= 1000000000\nExactly one valid solution exists.",
+          "examples": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "output": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,2,4],\"target\":6}",
+              "output": "[1,2]"
+            }
+          ],
+          "testCases": [
+            {
+              "input": "{\"nums\":[2,7,11,15],\"target\":9}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[3,3],\"target\":6}",
+              "expectedOutput": "[0,1]"
+            },
+            {
+              "input": "{\"nums\":[-1,-2,-3,-4,-5],\"target\":-8}",
+              "expectedOutput": "[2,4]"
+            },
+            {
+              "input": "{\"nums\":[0,4,3,0],\"target\":0}",
+              "expectedOutput": "[0,3]"
+            },
+            {
+              "input": "{\"nums\":[1,5,3,7],\"target\":8}",
+              "expectedOutput": "[1,2]"
+            }
+          ]
+        }
+      ],
+      "completed": false
+    }
+  },
+  "results": [
+    {
+      "id": "435224cf-2d2c-45a5-9448-ccd6dddaf97b",
+      "name": "Merlin R",
+      "startedAt": "2026-10-23T01:34:34.101Z",
+      "submittedAt": "2026-10-23T01:34:39.613Z",
+      "score": 0,
+      "total": 10,
+      "percentage": 0,
+      "tabSwitchCount": 0,
+      "webcamEventCount": 0,
+      "events": [],
+      "autoSubmitted": false
+    },
+    {
+      "id": "1b369968-b610-43a7-8bee-0b47a8831443",
+      "name": "Rajesh",
+      "startedAt": "2026-10-23T01:43:42.562Z",
+      "submittedAt": "2026-10-23T01:45:39.056Z",
+      "score": 8,
+      "total": 10,
+      "percentage": 80,
+      "tabSwitchCount": 1,
+      "webcamEventCount": 0,
+      "events": [
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T01:45:30.592Z",
+          "detail": "Candidate left the assessment tab or window"
+        }
+      ],
+      "autoSubmitted": false
+    },
+    {
+      "id": "c890af4c-2c00-42eb-a4c4-240e1117656c",
+      "name": "Merlin raj",
+      "startedAt": "2026-10-23T01:51:26.311Z",
+      "submittedAt": "2026-10-23T01:51:52.663Z",
+      "score": 1,
+      "total": 10,
+      "percentage": 10,
+      "tabSwitchCount": 1,
+      "webcamEventCount": 0,
+      "events": [
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T01:51:40.367Z",
+          "detail": "Candidate left the assessment tab or window"
+        }
+      ],
+      "autoSubmitted": false
+    },
+    {
+      "id": "79c22009-d8d9-4543-a50c-302caf3e90cc",
+      "name": "jjjj",
+      "startedAt": "2026-10-23T02:06:19.629Z",
+      "submittedAt": "2026-10-23T02:06:30.230Z",
+      "score": 0,
+      "total": 10,
+      "percentage": 0,
+      "tabSwitchCount": 0,
+      "webcamEventCount": 0,
+      "events": [],
+      "autoSubmitted": false
+    },
+    {
+      "id": "c39207bd-880f-49dd-a937-63b8cd895937",
+      "name": "kk",
+      "startedAt": "2026-10-23T02:08:29.538Z",
+      "submittedAt": "2026-10-23T02:08:46.941Z",
+      "score": 0,
+      "total": 10,
+      "percentage": 0,
+      "tabSwitchCount": 0,
+      "webcamEventCount": 0,
+      "events": [],
+      "autoSubmitted": false
+    },
+    {
+      "id": "2569cf39-7942-427e-ad21-b6cdb2306fb7",
+      "name": "Merlin k",
+      "startedAt": "2026-10-23T02:53:27.314Z",
+      "submittedAt": "2026-10-23T02:53:46.850Z",
+      "score": 1,
+      "total": 10,
+      "percentage": 10,
+      "tabSwitchCount": 0,
+      "fullscreenExitCount": 0,
+      "webcamEventCount": 1,
+      "codingSubmissions": {},
+      "events": [
+        {
+          "type": "no_face",
+          "at": "2026-10-23T02:53:36.183Z",
+          "detail": "No face visible for 5+ seconds"
+        }
+      ],
+      "autoSubmitted": false
+    },
+    {
+      "id": "ed0a83e7-96b2-4929-8cec-a89024e9163c",
+      "name": "Merlin K",
+      "startedAt": "2026-10-23T03:10:51.955Z",
+      "submittedAt": "2026-10-23T03:23:09.445Z",
+      "score": 2,
+      "total": 11,
+      "percentage": 18,
+      "tabSwitchCount": 5,
+      "fullscreenExitCount": 0,
+      "webcamEventCount": 19,
+      "codingSubmissions": {},
+      "events": [
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T03:12:27.840Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T03:12:35.678Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T03:12:56.705Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T03:13:15.116Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-23T03:13:37.278Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-23T03:14:08.272Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-23T03:14:38.286Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-23T03:15:08.273Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-23T03:15:39.280Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-23T03:16:09.291Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-23T03:16:45.272Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-23T03:17:15.271Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-23T03:17:45.285Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-23T03:18:16.281Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-23T03:18:47.273Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-23T03:19:17.284Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-23T03:19:47.285Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-23T03:20:18.283Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-23T03:20:49.283Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-23T03:21:20.292Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-23T03:21:51.278Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-23T03:22:21.283Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-23T03:22:52.275Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T03:23:08.605Z",
+          "detail": "Candidate left the assessment tab or window"
+        }
+      ],
+      "autoSubmitted": true
+    },
+    {
+      "id": "d0764917-8ad0-49bc-a8f1-b0218f685410",
+      "name": "RAJA",
+      "startedAt": "2026-10-23T03:31:37.469Z",
+      "submittedAt": "2026-10-23T03:35:06.248Z",
+      "score": 0,
+      "total": 11,
+      "percentage": 0,
+      "tabSwitchCount": 7,
+      "fullscreenExitCount": 0,
+      "webcamEventCount": 6,
+      "codingSubmissions": {},
+      "events": [
+        {
+          "type": "no_face",
+          "at": "2026-10-23T03:31:43.802Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T03:32:12.690Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-23T03:32:14.100Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T03:32:27.693Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-23T03:32:44.278Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T03:32:52.344Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T03:32:56.753Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-23T03:33:14.399Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T03:33:20.153Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T03:33:24.050Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-23T03:33:44.400Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T03:33:46.410Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-23T03:34:14.701Z",
+          "detail": "No face visible for 5+ seconds"
+        }
+      ],
+      "autoSubmitted": false
+    },
+    {
+      "id": "d8474dbf-c188-4b20-a5d5-03e84b31990b",
+      "name": "chan",
+      "startedAt": "2026-10-23T03:56:45.034Z",
+      "submittedAt": "2026-10-23T04:02:07.490Z",
+      "score": 0,
+      "total": 11,
+      "mcqScore": 0,
+      "mcqTotal": 10,
+      "codingScore": 0,
+      "codingTotal": 5,
+      "percentage": 0,
+      "tabSwitchCount": 7,
+      "fullscreenExitCount": 2,
+      "webcamEventCount": 1,
+      "codingSubmissions": {},
+      "events": [
+        {
+          "type": "fullscreen_exit",
+          "at": "2026-10-23T03:57:36.161Z",
+          "detail": "Candidate exited browser full-screen mode"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T03:57:37.407Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "fullscreen_exit",
+          "at": "2026-10-23T03:57:56.096Z",
+          "detail": "Candidate exited browser full-screen mode"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T03:58:02.108Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T03:58:17.618Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-23T03:59:44.274Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T04:00:22.250Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T04:00:55.156Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T04:00:59.587Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T04:01:49.260Z",
+          "detail": "Candidate left the assessment tab or window"
+        }
+      ],
+      "autoSubmitted": false
+    },
+    {
+      "id": "c4b64263-83eb-4a08-9c06-866575345d75",
+      "name": "RAJESHMERLIN",
+      "startedAt": "2026-10-23T04:21:06.993Z",
+      "submittedAt": "2026-10-23T04:25:19.621Z",
+      "score": 1,
+      "total": 11,
+      "mcqScore": 0,
+      "mcqTotal": 10,
+      "codingScore": 5,
+      "codingTotal": 5,
+      "percentage": 9,
+      "tabSwitchCount": 10,
+      "fullscreenExitCount": 1,
+      "webcamEventCount": 0,
+      "codingSubmissions": {
+        "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91": {
+          "language": "python",
+          "source": "import json\nimport sys\n\ndef two_sum(nums, target):\n    seen = {}\n    for index, number in enumerate(nums):\n        complement = target - number\n        if complement in seen:\n            return [seen[complement], index]\n        seen[number] = index\n    raise ValueError(\"No solution found\")\n\ndata = json.loads(sys.stdin.read())\nanswer = two_sum(data[\"nums\"], data[\"target\"])\nprint(json.dumps(answer, separators=(\",\", \":\")))",
+          "score": 1,
+          "passed": 5,
+          "total": 5,
+          "submittedAt": "2026-10-23T04:22:33.870Z"
+        }
+      },
+      "events": [
+        {
+          "type": "fullscreen_exit",
+          "at": "2026-10-23T04:21:33.325Z",
+          "detail": "Candidate exited browser full-screen mode"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T04:21:35.472Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T04:21:46.275Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T04:22:27.804Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T04:22:54.852Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T04:22:58.437Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T04:23:52.256Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T04:23:59.063Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T04:24:47.386Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T04:24:58.007Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T04:25:03.386Z",
+          "detail": "Candidate left the assessment tab or window"
+        }
+      ],
+      "autoSubmitted": false
+    },
+    {
+      "id": "8a3d0c8a-4bd7-4cf5-ab70-4928ae0d4c89",
+      "name": "rajeshmerlinn",
+      "startedAt": "2026-10-23T04:38:50.331Z",
+      "submittedAt": "2026-10-23T04:40:34.092Z",
+      "score": 1,
+      "total": 11,
+      "mcqScore": 1,
+      "mcqTotal": 10,
+      "codingScore": 0,
+      "codingTotal": 5,
+      "percentage": 9,
+      "tabSwitchCount": 2,
+      "fullscreenExitCount": 0,
+      "webcamEventCount": 0,
+      "codingSubmissions": {},
+      "events": [
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T04:39:18.732Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T04:40:08.359Z",
+          "detail": "Candidate left the assessment tab or window"
+        }
+      ],
+      "autoSubmitted": false
+    },
+    {
+      "id": "da5d3270-2d11-4e78-827b-63c48d410877",
+      "name": "vjh",
+      "startedAt": "2026-10-23T04:41:33.661Z",
+      "submittedAt": "2026-10-23T04:45:11.749Z",
+      "score": 1,
+      "total": 11,
+      "mcqScore": 0,
+      "mcqTotal": 10,
+      "codingScore": 5,
+      "codingTotal": 5,
+      "percentage": 9,
+      "tabSwitchCount": 3,
+      "fullscreenExitCount": 1,
+      "webcamEventCount": 0,
+      "codingSubmissions": {
+        "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91": {
+          "language": "python",
+          "source": "import json\nimport sys\n\ndef two_sum(nums, target):\n    seen = {}\n    for index, number in enumerate(nums):\n        complement = target - number\n        if complement in seen:\n            return [seen[complement], index]\n        seen[number] = index\n    raise ValueError(\"No solution found\")\n\ndata = json.loads(sys.stdin.read())\nanswer = two_sum(data[\"nums\"], data[\"target\"])\nprint(json.dumps(answer, separators=(\",\", \":\")))",
+          "score": 1,
+          "passed": 5,
+          "total": 5,
+          "submittedAt": "2026-10-23T04:44:41.236Z"
+        }
+      },
+      "events": [
+        {
+          "type": "fullscreen_exit",
+          "at": "2026-10-23T04:41:53.958Z",
+          "detail": "Candidate exited browser full-screen mode"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T04:41:56.325Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T04:44:50.022Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T04:45:06.870Z",
+          "detail": "Candidate left the assessment tab or window"
+        }
+      ],
+      "autoSubmitted": false
+    },
+    {
+      "id": "49f83629-7d3f-4f84-aea6-44eaa59caa23",
+      "name": "linnn",
+      "startedAt": "2026-10-23T04:45:41.806Z",
+      "submittedAt": "2026-10-23T04:48:52.921Z",
+      "score": 2,
+      "total": 11,
+      "mcqScore": 1,
+      "mcqTotal": 10,
+      "codingScore": 5,
+      "codingTotal": 5,
+      "percentage": 18,
+      "tabSwitchCount": 4,
+      "fullscreenExitCount": 0,
+      "webcamEventCount": 0,
+      "codingSubmissions": {
+        "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91": {
+          "language": "python",
+          "source": "import json\nimport sys\n\ndef two_sum(nums, target):\n    seen = {}\n    for index, number in enumerate(nums):\n        complement = target - number\n        if complement in seen:\n            return [seen[complement], index]\n        seen[number] = index\n    raise ValueError(\"No solution found\")\n\ndata = json.loads(sys.stdin.read())\nanswer = two_sum(data[\"nums\"], data[\"target\"])\nprint(json.dumps(answer, separators=(\",\", \":\")))",
+          "score": 1,
+          "passed": 5,
+          "total": 5,
+          "submittedAt": "2026-10-23T04:48:43.934Z"
+        }
+      },
+      "events": [
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T04:46:03.626Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T04:46:53.179Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T04:47:06.068Z",
+          "detail": "Candidate left the assessment tab or window"
+        },
+        {
+          "type": "tab_switch",
+          "at": "2026-10-23T04:48:16.163Z",
+          "detail": "Candidate left the assessment tab or window"
+        }
+      ],
+      "autoSubmitted": false
+    },
+    {
+      "id": "78875960-ff4a-4cec-894a-c7b388e26303",
+      "name": "Merlin R",
+      "startedAt": "2026-10-24T04:15:48.444Z",
+      "submittedAt": "2026-10-24T04:20:38.797Z",
+      "score": 1.4,
+      "total": 11,
+      "mcqScore": 1,
+      "mcqTotal": 10,
+      "codingScore": 2,
+      "codingTotal": 5,
+      "percentage": 13,
+      "tabSwitchCount": 0,
+      "fullscreenExitCount": 0,
+      "webcamEventCount": 10,
+      "codingSubmissions": {
+        "q-b7ab754c-c6bd-42ae-807e-34c8f98a0d91": {
+          "language": "python",
+          "source": "import sys\n\ndef solve():\n    data = sys.stdin.read()\n    # Parse the input and implement your solution\n    list1=[0,1]\n    print(list1)\n\nif __name__ == \"__main__\":\n    solve()\n",
+          "score": 0.4,
+          "passed": 2,
+          "total": 5,
+          "submittedAt": "2026-10-24T04:20:17.098Z"
+        }
+      },
+      "events": [
+        {
+          "type": "no_face",
+          "at": "2026-10-24T04:15:56.865Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-24T04:16:27.771Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-24T04:16:57.758Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-24T04:17:27.763Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-24T04:17:57.766Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-24T04:18:28.061Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-24T04:18:58.065Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-24T04:19:28.359Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-24T04:19:58.356Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-24T04:20:28.655Z",
+          "detail": "No face visible for 5+ seconds"
+        }
+      ],
+      "autoSubmitted": false
+    },
+    {
+      "id": "8c3894ae-70e7-4616-bcdc-9a30eafa174d",
+      "name": "Merlin R",
+      "startedAt": "2026-10-24T04:21:08.498Z",
+      "submittedAt": "2026-10-24T04:22:10.145Z",
+      "score": 0,
+      "total": 11,
+      "mcqScore": 0,
+      "mcqTotal": 10,
+      "codingScore": 0,
+      "codingTotal": 5,
+      "percentage": 0,
+      "tabSwitchCount": 0,
+      "fullscreenExitCount": 0,
+      "webcamEventCount": 2,
+      "codingSubmissions": {},
+      "events": [
+        {
+          "type": "no_face",
+          "at": "2026-10-24T04:21:14.143Z",
+          "detail": "No face visible for 5+ seconds"
+        },
+        {
+          "type": "no_face",
+          "at": "2026-10-24T04:21:44.452Z",
+          "detail": "No face visible for 5+ seconds"
+        }
+      ],
+      "autoSubmitted": false
+    }
+  ]
+}
