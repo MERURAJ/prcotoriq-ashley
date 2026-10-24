@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@config "../tailwind.config.js";
+html, body { background: #fff; color: #414141; overflow-x: hidden; }
+html:fullscreen { height: 100%; overflow-y: auto; }
+html:fullscreen .assessment-shell { min-height: 100vh; max-width: none; background: #fff; }
+:focus-visible { outline: 3px solid #F58232; outline-offset: 2px; }
+@layer components {
+  .btn { @apply inline-flex items-center justify-center rounded-md px-6 py-3 font-bold transition-colors disabled:cursor-not-allowed disabled:opacity-50; }
+  .btn-primary { @apply bg-ashley text-white hover:bg-[#d96d1f]; }
+  .btn-secondary { @apply border-2 border-charcoal text-charcoal hover:bg-charcoal hover:text-white; }
+  .card { @apply rounded-lg border border-gray-200 bg-white p-5; }
+}
